@@ -1,2 +1,2 @@
 # CODSOFT
-Level 1 task from CodSoft internship
+Level 1 tasks from CodSoft internship
